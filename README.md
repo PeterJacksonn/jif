@@ -1,5 +1,11 @@
 # jif
 
+![React](https://img.shields.io/badge/React-19-61DAFB?logo=react&logoColor=fff)
+![Vite](https://img.shields.io/badge/Vite-8-646CFF?logo=vite&logoColor=fff)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-4-06B6D4?logo=tailwindcss&logoColor=fff)
+![gif.js](https://img.shields.io/badge/gif.js-0.2-555555)
+[![Live](https://img.shields.io/badge/Live-jifstudio.vercel.app-000000?logo=vercel&logoColor=fff)](https://jifstudio.vercel.app)
+
 A client-side GIF maker. Drop in a batch of images, reorder them into a
 sequence, preview the loop, tune fps/quality/size, and export a GIF - all in
 the browser. No backend, no uploads.
