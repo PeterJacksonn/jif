@@ -24,3 +24,6 @@ and delete multiple when they're selected etc
 also.... be able to save your progress..???
 idk how it would save the images...
 but like use json or whatever for global settings  and frame settings
+
+
+change the gif studio preview to be a GIF... showing a preview cycling through... of a GIF being made

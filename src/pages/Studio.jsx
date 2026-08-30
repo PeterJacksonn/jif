@@ -317,7 +317,7 @@ export default function Studio() {
         </main>
       ) : (
         <main className="flex min-h-0 flex-1 gap-4 overflow-auto p-4 sm:p-6">
-          <div className="flex h-full flex-1 flex-col gap-4">
+          <div className="flex h-full min-w-0 flex-1 flex-col gap-4">
             <div className="flex min-h-0 flex-1 gap-4">
               <PreviewStage
                 readyFrames={readyFrames}

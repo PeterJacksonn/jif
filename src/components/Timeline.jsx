@@ -34,7 +34,7 @@ export default function Timeline({ frames, activeId, onSelect, onDelete, onDupli
   }
 
   return (
-    <div className="flex h-32 shrink-0 gap-2.5 overflow-x-auto overflow-y-hidden rounded-xl border border-white/5 bg-white/[0.02] p-2.5">
+    <div className="flex h-32 w-fit max-w-full shrink-0 self-start gap-2.5 overflow-x-auto overflow-y-hidden rounded-xl border border-white/5 bg-white/[0.02] p-2.5">
       {frames.map((frame, index) => (
         <div
           key={frame.id}
